@@ -317,15 +317,6 @@ mvnw.cmd test
 - Implement caching mechanisms
 - Add API documentation with Swagger/OpenAPI
 
-## License
-
-This project is part of Hartford Java Assignments.
-
-## Contact & Support
-
-For issues or questions, please contact the development team.
-
----
-
 **Last Updated:** March 3, 2026
+
 
